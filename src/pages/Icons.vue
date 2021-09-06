@@ -189,7 +189,7 @@
     },
     methods: {
       initCCTV(index){
-
+ 
       },
 
       initBigChart(index) {
